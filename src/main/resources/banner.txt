@@ -6,3 +6,4 @@
 
 Powered by Spring Boot ${spring-boot.version}
 Java ${java.version}
+Application name ${spring.application.name}

@@ -1,4 +1,4 @@
-# Description of eureka_server
+# Description of eureka-server
 
 This service is designed to provide a way for services in a distributed system to register themselves and discover other services that are available.
 
