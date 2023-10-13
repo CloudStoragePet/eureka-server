@@ -29,5 +29,5 @@ To run the Identity Application with Docker, follow these steps:
    actual values:
 
    ```sh
-      docker build -t eureka_server .
+      docker build -t eureka-server .
     ```

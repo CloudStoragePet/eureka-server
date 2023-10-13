@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.brain</groupId>
-    <artifactId>eureka_server</artifactId>
+    <artifactId>eureka-server</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>eureka_server</name>
     <description>eureka_server</description>
